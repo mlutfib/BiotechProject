@@ -1,5 +1,3 @@
-<!-- Test -->
-<!-- Test lagi -->
 <div id="page-wrapper">
 	<div class="row">
 		<div class="col-sm-12">
@@ -32,6 +30,46 @@
 										</tr>
 										<tr>
 											<td>2. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>3. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>4. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>5. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>6. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>7. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>8. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>9. </td>
+											<td>Ganteng</td>
+											<td>14:56:59</td>
+										</tr>
+										<tr>
+											<td>10. </td>
 											<td>Ganteng</td>
 											<td>14:56:59</td>
 										</tr>
@@ -108,6 +146,41 @@
 										<h5>Turbidity</h5>
 										<h2>0%</h2>
 									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+			</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<i class="fa fa-home fa-fw"></i> Home Control
+						</div>
+						<div class="panel-body text-center">
+							<div class="row">
+								<div class="col-sm-12">
+									<h5>Lamp 1</h5>
+									<h2>ON</h2>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-12">
+									<h5>Lamp 2</h5>
+									<h2>OFF</h2>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-12">
+									<h5>Lamp 3</h5>
+									<h2>OFF</h2>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-12">
+									<h5>Lamp 4</h5>
+									<h2>OFF</h2>
 								</div>
 							</div>
 						</div>
