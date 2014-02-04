@@ -5,7 +5,7 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-8">
+		<div class="col-sm-6">
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="panel panel-primary">
@@ -77,7 +77,74 @@
 								</table>
 							</div>
 						</div>
-					</div>			
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-6">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<i class="fa fa-home fa-fw"></i> Home Control
+						</div>
+						<div class="panel-body text-center">
+							<div class="row">
+								<div class="col-sm-3">
+									<h5>Lamp 1</h5>
+									<h2>ON</h2>
+								</div>
+								<div class="col-sm-3">
+									<h5>Lamp 2</h5>
+									<h2>OFF</h2>
+								</div>
+								<div class="col-sm-3">
+									<h5>Lamp 3</h5>
+									<h2>OFF</h2>
+								</div>
+								<div class="col-sm-3">
+									<h5>Lamp 4</h5>
+									<h2>ON</h2>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row">
+						<div class="col-sm-8">
+							<div class="panel panel-primary">
+								<div class="panel-heading">
+									<i class="fa fa-tint fa-fw"></i> Water Monitoring
+								</div>
+								<div class="panel-body text-center">
+									<div class="row">
+										<div class="col-sm-6">
+											<h5>Level</h5>
+											<h2>120 CM</h2>
+										</div>
+										<div class="col-sm-6">
+											<h5>Turbidity</h5>
+											<h2>0%</h2>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="panel panel-primary">
+								<div class="panel-heading">
+									<i class="fa fa-cogs fa-fw"></i> Server Room
+								</div>
+								<div class="panel-body text-center">
+									<h5>Temperature</h5>
+									<h2>38&deg;C</h2>
+								</div>
+							</div>
+						</div>	
+					</div>
 				</div>
 			</div>
 			<div class="row">
@@ -90,102 +157,21 @@
 							<h4>Plant Setting: Weed</h4>
 							<div class="row">
 								<div class="col-sm-4">
-									<div class="well well-sm">
-										<h5>Lux</h5>
-										<h2>6000 lx</h2>
-									</div>
+									<h5>Lux</h5>
+									<h2>6000 lx</h2>
 								</div>
 								<div class="col-sm-4">
-									<div class="well well-sm">
-										<h5>Humidity</h5>
-										<h2>Humid</h2>
-									</div>
+									<h5>Humidity</h5>
+									<h2>Humid</h2>
 								</div>
 								<div class="col-sm-4">
-									<div class="well well-sm">
-										<h5>Temperature</h5>
-										<h2>32&deg;C</h2>
-									</div>
+									<h5>Temperature</h5>
+									<h2>32&deg;C</h2>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		<div class="col-sm-4">
-			<div class="row">
-				<div class="col-sm-12">
-					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<i class="fa fa-cogs fa-fw"></i> Server Room
-						</div>
-						<div class="panel-body text-center">
-							<h5>Temperature</h5>
-							<h2>38&deg;C</h2>
-						</div>
-					</div>	
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-sm-12">
-					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<i class="fa fa-tint fa-fw"></i> Water Monitoring
-						</div>
-						<div class="panel-body text-center">
-							<div class="row">
-								<div class="col-sm-6">
-									<div class="well well-sm">
-										<h5>Level</h5>
-										<h2>120 CM</h2>
-									</div>
-								</div>
-								<div class="col-sm-6">
-									<div class="well well-sm">
-										<h5>Turbidity</h5>
-										<h2>0%</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>	
-			</div>
-			<div class="row">
-				<div class="col-sm-12">
-					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<i class="fa fa-home fa-fw"></i> Home Control
-						</div>
-						<div class="panel-body text-center">
-							<div class="row">
-								<div class="col-sm-12">
-									<h5>Lamp 1</h5>
-									<h2>ON</h2>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-sm-12">
-									<h5>Lamp 2</h5>
-									<h2>OFF</h2>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-sm-12">
-									<h5>Lamp 3</h5>
-									<h2>OFF</h2>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-sm-12">
-									<h5>Lamp 4</h5>
-									<h2>OFF</h2>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>	
 			</div>
 		</div>
 	</div>
