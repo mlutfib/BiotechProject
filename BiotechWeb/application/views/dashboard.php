@@ -1,4 +1,3 @@
-<!-- Test -->
 <div id="page-wrapper">
 	<div class="row">
 		<div class="col-sm-12">
