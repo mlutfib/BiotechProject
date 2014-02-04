@@ -18,6 +18,9 @@
     <!-- SB Admin Scripts -->
     <script src="<?=base_url()?>assets/js/sb-admin.js"></script>
 
-    <!-- Page-Level Demo Scripts - Dashboard - Use for reference -->
-    <script src="<?=base_url()?>assets/js/demo/dashboard-demo.js"></script>
+	<script>
+	$(document).ready(function() {
+		$('#dataTables-admin').dataTable();
+	});
+	</script>
 </body>
